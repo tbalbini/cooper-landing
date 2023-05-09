@@ -1,8 +1,8 @@
 import React from "react";
-import Video from "../video";
-import Backed from "../backed";
-import FooterBar from "../footer";
-import Hero from "../hero";
+import Video from "../landing/video";
+import Backed from "../landing/backed";
+import FooterBar from "../landing/footer";
+import Hero from "../landing/hero";
 
 const App = () => {
     return (

@@ -7,13 +7,13 @@ const Hero = () => {
             <nav className='flex justify-between items-center w-full mb-10 pt-3'>
             <img src='/logo.svg' alt='Cooper' className='w-28 object-contain' />
     
-            <Link href="/login" className="black_btn">Login</Link>
+            <Link href="https://tally.so/r/woD9GX" className="black_btn">Early Access</Link>
 
             </nav>
     
             <h1 className='head_text'>
-            All your readings in one place. <br className='max-md:hidden' />
-            <span className='orange_gradient '>Keep it simple</span>
+            Tu copiloto en la universidad <br className='max-md:hidden' />
+            <span className='orange_gradient '>Chatea, resume y practica</span>
             </h1>
             <h2 className='desc'>
             Todas tus lecturas en un solo lugar.

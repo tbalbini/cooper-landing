@@ -14,13 +14,13 @@ function FooterBar() {
                 type='button'
                 className='balbini_btn'
             >
-                <a href="/register">
-                ¡Regístrate!
+                <a href="https://tally.so/r/woD9GX">
+                Early Access
                 </a>
             </button>
         </div>
         <div className='container_special'>
-            <Link href="/register" className="link-block-13 w-inline-block">
+            <Link href="https://tally.so/r/woD9GX" className="link-block-13 w-inline-block">
             <div className="dummy_text">© 2023 Cooper. Todos los derechos reservados.</div>
             </Link>
         </div>
