@@ -13,7 +13,7 @@ const App = () => {
 
             <div className="app">
                 <Hero />
-                <Video videoLink="https://www.youtube.com/watch?v=8HmbjASuvMI"/>
+                <Video videoLink="https://www.youtube.com/watch?v=zcuEpBanI6Q"/>
                 <Backed />
                 <FooterBar />
             </div>

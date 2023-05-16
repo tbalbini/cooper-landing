@@ -10,14 +10,15 @@ function FooterBar() {
         <br />
         <br />
         <div className='container'>
-            <button
+            <Link
+                href="https://tally.so/r/woD9GX"
                 type='button'
                 className='balbini_btn'
             >
-                <a href="https://tally.so/r/woD9GX">
+                <div>
                 Early Access
-                </a>
-            </button>
+                </div>
+            </Link>
         </div>
         <div className='container_special'>
             <Link href="https://tally.so/r/woD9GX" className="link-block-13 w-inline-block">
