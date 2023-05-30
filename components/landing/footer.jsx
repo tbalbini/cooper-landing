@@ -12,11 +12,11 @@ function FooterBar() {
         <div className='container'>
             <Link
                 href="https://tally.so/r/woD9GX"
-                type='button'
+                type='button text-semibold'
                 className='balbini_btn'
             >
                 <div>
-                Early Access
+                ¡Iniciar sesión!
                 </div>
             </Link>
         </div>

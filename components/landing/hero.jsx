@@ -6,8 +6,12 @@ const Hero = () => {
         <header className='w-full flex justify-center items-center flex-col'>
             <nav className='flex justify-between items-center w-full mb-10 pt-3'>
             <img src='/logo.svg' alt='Cooper' className='w-28 object-contain' />
-    
-            <Link href="https://tally.so/r/woD9GX" className="black_btn">Early Access</Link>
+            
+            <div className="flex space-x-4">
+            <Link href="https://tally.so/r/woD9GX" className="text-black flex justify-center items-center bg-white py-2 px-4 rounded-md">Registrarme</Link>
+
+            <Link href="https://tally.so/r/woD9GX" className="text-white flex justify-center items-center bg-black py-2 px-4 rounded-md">¡Iniciar sesión!</Link>
+            </div>
 
             </nav>
     
